@@ -8,6 +8,7 @@ const NavBar = styled.nav`
     left: 0;
     background: #292929;
     height: 140px;
+    z-index:1;
 `
 
 
